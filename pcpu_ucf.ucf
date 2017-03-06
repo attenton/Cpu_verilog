@@ -1,0 +1,26 @@
+NET "select_y[0]" LOC = "N8"; 
+NET "select_y[1]" LOC = "U8";  
+NET "select_y[2]" LOC = "V8";  
+NET "select_y[3]" LOC = "T5";  
+
+ 
+NET "reset" LOC = "M8";  
+NET "clock" LOC = "V9";
+NET "clk" LOC = "V10"; 
+NET "start" LOC = "T9";
+NET "enable" LOC = "T10";
+
+NET "a_to_g[0]" LOC = "L14";  
+NET "a_to_g[1]" LOC = "N14";  
+NET "a_to_g[2]" LOC = "M14";  
+NET "a_to_g[3]" LOC = "U18";  
+NET "a_to_g[4]" LOC = "U17";  
+NET "a_to_g[5]" LOC = "T18";  
+NET "a_to_g[6]" LOC = "T17"; 
+ 
+NET "en[0]" LOC = "P17";  
+NET "en[1]" LOC = "P18";  
+NET "en[2]" LOC = "N15";  
+NET "en[3]" LOC = "N16"; 
+ 
+NET "dp" LOC = "M13";
